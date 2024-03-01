@@ -88,12 +88,12 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(64, 203);
+            this.label3.Location = new System.Drawing.Point(22, 203);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(84, 20);
+            this.label3.Size = new System.Drawing.Size(114, 20);
             this.label3.TabIndex = 0;
-            this.label3.Text = "Alınan Yol:";
+            this.label3.Text = "Alınan Mesafe:";
             this.label3.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtDistance
