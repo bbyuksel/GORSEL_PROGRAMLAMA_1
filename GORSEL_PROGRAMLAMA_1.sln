@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASİT KODLAR", "WindowsFormsApp1\BASİT KODLAR.csproj", "{13468745-97FE-4DF3-A1F2-70583401C193}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADİSYON", "ADİSYON\ADİSYON.csproj", "{D12B76AA-4500-4B6B-8B2E-9296DFD7490A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MESAFE HESAPLAYICI", "MESAFE HESAPLAYICI\MESAFE HESAPLAYICI.csproj", "{E8BE3921-686D-4E84-9615-D924681AAF62}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATIŞ VERGİSİ", "SATIŞ VERGİSİ\SATIŞ VERGİSİ.csproj", "{53E15485-8357-45E9-9432-AAB489E2B788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASİT KODLAR", "BASİT KODLAR\BASİT KODLAR.csproj", "{13468745-97FE-4DF3-A1F2-70583401C193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13468745-97FE-4DF3-A1F2-70583401C193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13468745-97FE-4DF3-A1F2-70583401C193}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13468745-97FE-4DF3-A1F2-70583401C193}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13468745-97FE-4DF3-A1F2-70583401C193}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D12B76AA-4500-4B6B-8B2E-9296DFD7490A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D12B76AA-4500-4B6B-8B2E-9296DFD7490A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D12B76AA-4500-4B6B-8B2E-9296DFD7490A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{53E15485-8357-45E9-9432-AAB489E2B788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E15485-8357-45E9-9432-AAB489E2B788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E15485-8357-45E9-9432-AAB489E2B788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13468745-97FE-4DF3-A1F2-70583401C193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13468745-97FE-4DF3-A1F2-70583401C193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13468745-97FE-4DF3-A1F2-70583401C193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13468745-97FE-4DF3-A1F2-70583401C193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
