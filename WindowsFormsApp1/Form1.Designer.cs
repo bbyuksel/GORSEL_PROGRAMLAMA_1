@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace BASIT_KODLAR
 {
     partial class Form1
     {
