@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATIŞ VERGİSİ", "SATIŞ 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BASİT KODLAR", "BASİT KODLAR\BASİT KODLAR.csproj", "{13468745-97FE-4DF3-A1F2-70583401C193}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurabiye Kalori Hesapla", "Kurabiye Kalori Hesapla\Kurabiye Kalori Hesapla.csproj", "{0FE243C8-3920-4FBA-B8E6-1AA583693F6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KURABİYE KALORİ HESAPLA", "Kurabiye Kalori Hesapla\KURABİYE KALORİ HESAPLA.csproj", "{0FE243C8-3920-4FBA-B8E6-1AA583693F6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
