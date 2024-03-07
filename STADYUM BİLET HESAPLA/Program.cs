@@ -25,7 +25,7 @@ class Program
         Console.WriteLine("A sınıf bilet satışından elde edilen gelir: " + aSinifiGelir + "TL");
         Console.WriteLine("B sınıf bilet satışından elde edilen gelir: " + bSinifiGelir + "TL");
         Console.WriteLine("C sınıf bilet satışından elde edilen gelir: " + cSinifiGelir + "TL");
-        Console.WriteLine("Toplam Gelir: " + toplamGelir + "TL");
+        Console.WriteLine("Toplam Gelir: " + toplamGelir.ToString("C2") + "TL");
 
         Console.ReadKey();
 
