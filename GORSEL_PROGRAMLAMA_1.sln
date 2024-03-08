@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTOMOBİL MALİYETİ", "OTO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VÜCUT KİTLE ENDEKSİ", "VÜCUT KİTLE ENDEKSİ\VÜCUT KİTLE ENDEKSİ.csproj", "{99ACEE51-85A9-428F-A2DA-2ED0C64B3370}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEYVE KALORİ", "MEYVE KALORİ\MEYVE KALORİ.csproj", "{9A16E7CF-C8DE-43BF-BD4E-1AC29A39156F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{99ACEE51-85A9-428F-A2DA-2ED0C64B3370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99ACEE51-85A9-428F-A2DA-2ED0C64B3370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99ACEE51-85A9-428F-A2DA-2ED0C64B3370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A16E7CF-C8DE-43BF-BD4E-1AC29A39156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A16E7CF-C8DE-43BF-BD4E-1AC29A39156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A16E7CF-C8DE-43BF-BD4E-1AC29A39156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A16E7CF-C8DE-43BF-BD4E-1AC29A39156F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
